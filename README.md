@@ -1,2 +1,2 @@
-# prodigy-task-project-3
+# prodigy-task-project-2
 tic tac toe
